@@ -9,7 +9,7 @@ public class BaseTest {
 	
 	@AfterSuite
 	public void tearDown(){
-		
+		//adding comment
 		Page.quit();
 		
 	}
